@@ -3,7 +3,7 @@
 
 This program, written in Go, automatically types custom text using a combination of user-defined keybinds.The default keybind is `Ctrl + Shift + F3
 
-Note: I created this for entering master keys because I couldn't remember a 64-character master key. It also served as a learning experience with Go.
+Note: I created this for entering master keys keepass because I couldn't remember a 64-character master key. It also served as a learning experience with Go.
 
 ## Features
 
