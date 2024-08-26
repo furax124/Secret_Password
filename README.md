@@ -30,3 +30,4 @@ garble -literals -seed=random -tiny build -ldflags="-w -s -H=windowsgui -buildid
 ## Todo
 
 - Add Trustedinstaller option (to make it work in secure dekstop or anywhere)
+- Add xor encryption (only string)
