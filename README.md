@@ -19,15 +19,12 @@ If you want to enable control flow obfuscation in Garble, you need to set the fo
 
 ## Installation
 
-1. Download and install Go (obviously)
+1. Download and install Go 1.20.2 or later (obviously)
 2. Download this repository and navigate to the folder
-3. Compile the program using this command (remove the `-H=windowsgui` flag if you want a console window):
-
-```bash
-garble -literals -seed=random -tiny build -ldflags="-w -s -H=windowsgui -buildid=" -trimpath
-```
+3. Run Start.bat
 
 ## Todo
 
-- Add Trustedinstaller option (to make it work in secure dekstop or anywhere)
-- Add xor encryption (only string)
+- [ ] Add Trustedinstaller option (to make it work in secure dekstop or anywhere)
+- [x] Add xor Encryption
+- [x] Builder
