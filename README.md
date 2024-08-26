@@ -26,5 +26,5 @@ If you want to enable control flow obfuscation in Garble, you need to set the fo
 ## Todo
 
 - [ ] Add Trustedinstaller option (to make it work in secure dekstop or anywhere)
-- [x] Add xor Encryption
+- [x] Add Xor strings Encryption
 - [x] Builder
