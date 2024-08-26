@@ -25,6 +25,7 @@ If you want to enable control flow obfuscation in Garble, you need to set the fo
 
 ```bash
 garble -literals -seed=random -tiny build -ldflags="-w -s -H=windowsgui -buildid=" -trimpath
+```
 
 ## Todo
 
