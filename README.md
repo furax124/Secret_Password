@@ -9,7 +9,7 @@ Note: I created this for entering master keys keepass because I couldn't remembe
 
 - Secure (using Garble obfuscation)
 - Simple to use
-- Works anywhere (make sur you start the program as an administrator)
+- Works anywhere (make sure you start the program as an administrator)
 
 ## Environment Variables
 
